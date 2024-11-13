@@ -1,0 +1,17 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #reader {
+    width: 600px;
+  }
+  #result, #all-results {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+  }
+  #scan-count {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
